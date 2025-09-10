@@ -10,4 +10,6 @@
 
 -git push origin main // Comando para subir al repositorio de GitHub lo avanzado
 
+- git cd // navegar en ubicaciones
+
 ® Derechos Reservados
