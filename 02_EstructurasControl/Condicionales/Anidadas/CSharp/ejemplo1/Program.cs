@@ -58,6 +58,8 @@ namespace ejemplo1
                 }
             }
 
+            Console.ReadLine()
+
         }
     }
 }
