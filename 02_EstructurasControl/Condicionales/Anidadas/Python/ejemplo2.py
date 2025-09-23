@@ -18,4 +18,27 @@ edad = int(input())
 #Usando Condicional anidada:
 if edad > 120 or edad < 0:
     print("Edad Invalida")
+else:
+    print("Escriba su tipo de viaje:    (urbano // rural)")
+    viaje = input().lower()
     
+    if edad >= 18:
+        if viaje == "urbano":
+            print("Su pasaje cuesta S/3")
+        else:
+            if viaje == "rural":
+                print("Su pasaje cuesta S/7")
+            else:
+                print("Su destino es invalido")
+
+    else:
+        if viaje == "urbano":
+            print("Su pasaje cuesta S/2")
+        else:
+            if viaje == "rural":
+                print("Su pasaje cuesta S/5")
+            else:
+                print("Su destino es invalido")
+
+    #Pausa para que no se cierre automaticamente
+    input()
