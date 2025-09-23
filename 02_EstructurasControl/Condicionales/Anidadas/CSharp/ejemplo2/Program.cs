@@ -25,21 +25,16 @@ namespace ejemplo2
             //Definir edad, viaje y solicitar los datos
 
             Console.WriteLine("Ingrese su edad");
-            int edad = int.Parse(Console.ReadLine().ToLower());
+            int edad = int.Parse(Console.ReadLine());
 
             
-
             //Usando Condicional anidada:
-            if (edad > 120)
+            if (edad > 120 || edad < 0)
             {
                 Console.WriteLine("Edad Invalida");
             }
             else
             {
-                if (edad < 0)
-                    Console.WriteLine("Edad Invalida");
-                else
-                {
                     Console.WriteLine("Escriba su tipo de viaje:    (urbano // rural)");
                     string viaje = Console.ReadLine().ToLower();
 
@@ -84,8 +79,6 @@ namespace ejemplo2
                             }
                         }
                     }
-
-                }
             }
 
             Console.ReadKey();
