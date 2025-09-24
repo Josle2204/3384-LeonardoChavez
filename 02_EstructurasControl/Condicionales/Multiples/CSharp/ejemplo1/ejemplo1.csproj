@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{557EE315-9372-4303-807C-157178A2BE47}</ProjectGuid>
+    <ProjectGuid>{B1FBE918-40DE-4571-8353-68D9D8A19031}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercico2</RootNamespace>
-    <AssemblyName>Ejercico2</AssemblyName>
+    <RootNamespace>ejemplo1</RootNamespace>
+    <AssemblyName>ejemplo1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
