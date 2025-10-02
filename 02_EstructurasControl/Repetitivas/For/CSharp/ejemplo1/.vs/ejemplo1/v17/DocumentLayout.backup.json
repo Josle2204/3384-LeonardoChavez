@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trabajos UPN\\CICLO 2\\FUNALG\\C#\\C# Ejercicios para Repositorio Individual\\Repetitivas\\For\\ejemplo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{201CA7EF-7B51-4369-8006-3A21FB73C0FE}|..\\ejemplo2\\ejemplo2.csproj|c:\\users\\user\\desktop\\trabajos upn\\ciclo 2\\funalg\\c#\\c# ejercicios para repositorio individual\\repetitivas\\for\\ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6040663F-3BE2-4893-AA51-EC0B09A01835}|ejemplo1.csproj|c:\\users\\user\\desktop\\trabajos upn\\ciclo 2\\funalg\\c#\\c# ejercicios para repositorio individual\\repetitivas\\for\\ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6040663F-3BE2-4893-AA51-EC0B09A01835}|ejemplo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos UPN\\CICLO 2\\FUNALG\\C#\\C# Ejercicios para Repositorio Individual\\Repetitivas\\For\\ejemplo2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ejemplo2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos UPN\\CICLO 2\\FUNALG\\C#\\C# Ejercicios para Repositorio Individual\\Repetitivas\\For\\ejemplo2\\Program.cs",
+              "RelativeToolTip": "..\\ejemplo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:08:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos UPN\\CICLO 2\\FUNALG\\C#\\C# Ejercicios para Repositorio Individual\\Repetitivas\\For\\ejemplo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos UPN\\CICLO 2\\FUNALG\\C#\\C# Ejercicios para Repositorio Individual\\Repetitivas\\For\\ejemplo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:58:05.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Trabajos UPN\CICLO 2\FUNALG\C#\C# Ejercicios para Repositorio Individual\Repetitivas\For\ejemplo2\bin\Debug\ejemplo2.exe.config
+C:\Users\User\Desktop\Trabajos UPN\CICLO 2\FUNALG\C#\C# Ejercicios para Repositorio Individual\Repetitivas\For\ejemplo2\bin\Debug\ejemplo2.exe
+C:\Users\User\Desktop\Trabajos UPN\CICLO 2\FUNALG\C#\C# Ejercicios para Repositorio Individual\Repetitivas\For\ejemplo2\bin\Debug\ejemplo2.pdb
+C:\Users\User\Desktop\Trabajos UPN\CICLO 2\FUNALG\C#\C# Ejercicios para Repositorio Individual\Repetitivas\For\ejemplo2\obj\Debug\ejemplo2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trabajos UPN\CICLO 2\FUNALG\C#\C# Ejercicios para Repositorio Individual\Repetitivas\For\ejemplo2\obj\Debug\ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos UPN\CICLO 2\FUNALG\C#\C# Ejercicios para Repositorio Individual\Repetitivas\For\ejemplo2\obj\Debug\ejemplo2.exe
+C:\Users\User\Desktop\Trabajos UPN\CICLO 2\FUNALG\C#\C# Ejercicios para Repositorio Individual\Repetitivas\For\ejemplo2\obj\Debug\ejemplo2.pdb
